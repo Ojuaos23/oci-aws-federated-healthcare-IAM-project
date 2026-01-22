@@ -295,11 +295,9 @@ Used Auth0's SAML debugger to verify assertion contents:
 - **SAML Providers Configured:** 2
 - **Lines of Terraform:** ~150
 - **Lines of JavaScript:** ~25 (Auth0 Actions)
-- **IAM Policies Created:** 2 (1 OCI, 1 AWS)
+- **IAM Policies Created:** ( OCI, AWS)
 - **Security Principle:** Zero Trust + Least Privilege
 - **Authentication Protocol:** SAML 2.0
-- **Time to Deploy:** ~4 hours (including troubleshooting)
-
 ---
 
 ## 🎯 Why This Matters for Healthcare
