@@ -1,0 +1,7 @@
+# terraform.tfvars.example - DO NOT ADD REAL VALUES HERE
+tenancy_ocid     = "ocid1.tenancy.oc1..aaaaaaa-example-only"
+user_ocid        = "ocid1.user.oc1..aaaaaaa-example-only"
+fingerprint      = "64:26:a4:d0:85:20:xx:xx..."
+private_key_path = "C:/path/to/your/oci_api_key.pem"
+region           = "us-ashburn-1"
+compartment_ocid = "ocid1.tenancy.oc1..aaaaaaa-example-only"

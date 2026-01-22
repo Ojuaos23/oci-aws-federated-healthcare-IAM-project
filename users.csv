@@ -1,0 +1,5 @@
+username,email,role,department,description
+dr.smith,dr.smith@example.com,ClinicalAdmin,Cardiology,Chief of Cardiology
+sec.analyst,sec.analyst@example.com,SecurityAdmin,IT Security,Lead Security Auditor
+dev.jane,jane.dev@example.com,Developer,ClinicalSystems,Senior App Developer
+data.mark,mark.data@example.com,DataAnalyst,Research,Biostatistician

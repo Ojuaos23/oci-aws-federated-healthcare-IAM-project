@@ -1,0 +1,55 @@
+{
+  "operation": "bulk_user_onboarding",
+  "timestamp": "2026-01-20T16:46:16.548572",
+  "summary": {
+    "total": 4,
+    "successful": 4,
+    "failed": 0
+  },
+  "results": [
+    {
+      "username": "dr.smith",
+      "email": "dr.smith@example.com",
+      "role": "ClinicalAdmin",
+      "department": "Cardiology",
+      "success": true,
+      "user_ocid": "ocid1.user.oc1..aaaaaaaaojb5xtyiupg2rjsobxwj4dnyd6zrn5aij2uagsxyo47cghvh2dqq",
+      "group_name": "HC-Clinical-App-Admins",
+      "error": null,
+      "timestamp": "2026-01-20T16:46:08.860112"
+    },
+    {
+      "username": "sec.analyst",
+      "email": "sec.analyst@example.com",
+      "role": "SecurityAdmin",
+      "department": "IT Security",
+      "success": true,
+      "user_ocid": "ocid1.user.oc1..aaaaaaaawih6fsdtps32sftfcol7dtxhik6pnaqqnfzx2flkgwogntj5l7va",
+      "group_name": "HC-Security-Admins",
+      "error": null,
+      "timestamp": "2026-01-20T16:46:10.998578"
+    },
+    {
+      "username": "dev.jane",
+      "email": "jane.dev@example.com",
+      "role": "Developer",
+      "department": "ClinicalSystems",
+      "success": true,
+      "user_ocid": "ocid1.user.oc1..aaaaaaaa6slhggya4qnve5azzl4zgxlah2yxfknd4u63qsexuudr4qnolkca",
+      "group_name": "HC-Clinical-Developers",
+      "error": null,
+      "timestamp": "2026-01-20T16:46:12.690054"
+    },
+    {
+      "username": "data.mark",
+      "email": "mark.data@example.com",
+      "role": "DataAnalyst",
+      "department": "Research",
+      "success": true,
+      "user_ocid": "ocid1.user.oc1..aaaaaaaaxxfzabajpp3f4oykhi6nxoefyuug47t3temonmcuvtktrks2ehoa",
+      "group_name": "HC-Data-Analysts",
+      "error": null,
+      "timestamp": "2026-01-20T16:46:14.677232"
+    }
+  ]
+}

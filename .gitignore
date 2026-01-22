@@ -1,0 +1,42 @@
+#.gitignore
+
+# Terraform sensitive files
+*.tfvars
+!*.tfvars.example
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.d/
+
+# OCI credentials
+.oci/
+config
+*_key.pem
+*.pem
+
+# AWS credentials
+.aws/
+credentials
+
+# Auth0 secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal notes
+notes.txt
+todo.md
+
+# OCI Provider Binaries
+*.exe

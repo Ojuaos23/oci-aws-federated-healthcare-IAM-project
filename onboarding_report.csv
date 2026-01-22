@@ -1,0 +1,5 @@
+timestamp,username,email,role,department,group_name,success,user_ocid,error
+2026-01-20T16:46:08.860112,dr.smith,dr.smith@example.com,ClinicalAdmin,Cardiology,HC-Clinical-App-Admins,True,ocid1.user.oc1..aaaaaaaaojb5xtyiupg2rjsobxwj4dnyd6zrn5aij2uagsxyo47cghvh2dqq,
+2026-01-20T16:46:10.998578,sec.analyst,sec.analyst@example.com,SecurityAdmin,IT Security,HC-Security-Admins,True,ocid1.user.oc1..aaaaaaaawih6fsdtps32sftfcol7dtxhik6pnaqqnfzx2flkgwogntj5l7va,
+2026-01-20T16:46:12.690054,dev.jane,jane.dev@example.com,Developer,ClinicalSystems,HC-Clinical-Developers,True,ocid1.user.oc1..aaaaaaaa6slhggya4qnve5azzl4zgxlah2yxfknd4u63qsexuudr4qnolkca,
+2026-01-20T16:46:14.677232,data.mark,mark.data@example.com,DataAnalyst,Research,HC-Data-Analysts,True,ocid1.user.oc1..aaaaaaaaxxfzabajpp3f4oykhi6nxoefyuug47t3temonmcuvtktrks2ehoa,
